@@ -1,0 +1,17 @@
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\bin\Debug\net8.0\TouristAgency.DataAccess.deps.json
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\bin\Debug\net8.0\TouristAgency.DataAccess.runtimeconfig.json
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\bin\Debug\net8.0\TouristAgency.DataAccess.dll
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\bin\Debug\net8.0\TouristAgency.DataAccess.pdb
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\bin\Debug\net8.0\TouristAgency.Models.dll
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\bin\Debug\net8.0\TouristAgency.Models.pdb
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\obj\Debug\net8.0\TouristAgency.DataAccess.csproj.AssemblyReference.cache
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\obj\Debug\net8.0\TouristAgency.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\obj\Debug\net8.0\TouristAgency.DataAccess.AssemblyInfoInputs.cache
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\obj\Debug\net8.0\TouristAgency.DataAccess.AssemblyInfo.cs
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\obj\Debug\net8.0\TouristAgency.DataAccess.csproj.CoreCompileInputs.cache
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\obj\Debug\net8.0\TouristA.1D594F74.Up2Date
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\obj\Debug\net8.0\TouristAgency.DataAccess.dll
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\obj\Debug\net8.0\refint\TouristAgency.DataAccess.dll
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\obj\Debug\net8.0\TouristAgency.DataAccess.pdb
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\obj\Debug\net8.0\TouristAgency.DataAccess.genruntimeconfig.cache
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.DataAccess\obj\Debug\net8.0\ref\TouristAgency.DataAccess.dll

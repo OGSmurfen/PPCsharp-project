@@ -1,0 +1,14 @@
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\bin\Debug\net8.0\TouristAgency.Models.deps.json
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\bin\Debug\net8.0\TouristAgency.Models.runtimeconfig.json
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\bin\Debug\net8.0\TouristAgency.Models.dll
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\bin\Debug\net8.0\TouristAgency.Models.pdb
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\obj\Debug\net8.0\TouristAgency.Models.csproj.AssemblyReference.cache
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\obj\Debug\net8.0\TouristAgency.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\obj\Debug\net8.0\TouristAgency.Models.AssemblyInfoInputs.cache
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\obj\Debug\net8.0\TouristAgency.Models.AssemblyInfo.cs
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\obj\Debug\net8.0\TouristAgency.Models.csproj.CoreCompileInputs.cache
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\obj\Debug\net8.0\TouristAgency.Models.dll
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\obj\Debug\net8.0\refint\TouristAgency.Models.dll
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\obj\Debug\net8.0\TouristAgency.Models.pdb
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\obj\Debug\net8.0\TouristAgency.Models.genruntimeconfig.cache
+D:\Majors\1semester\PPC#-kp\TouristAgency_Web\TouristAgency.Models\obj\Debug\net8.0\ref\TouristAgency.Models.dll
